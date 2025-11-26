@@ -18,7 +18,7 @@ ipykernel
 pillow
 python-dotenv
 pandas
-uvicorn
+uvicorn>=0.31.1
 nest-asyncio
 
 agent-framework
